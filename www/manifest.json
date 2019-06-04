@@ -1,0 +1,17 @@
+{
+    "name": "Boon",
+    "short_name": "Boon",
+    "start_url": "https://app.doingboon.com/",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "orientation": "portrait",
+    "splash": [],
+    "icons": [
+        {
+            "src": "/img/icons/icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
