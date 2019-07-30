@@ -405,7 +405,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				PRODUCT_NAME = Boon;
-				PROVISIONING_PROFILE_SPECIFIER = "doingboon.app Ad Hoc";
+				PROVISIONING_PROFILE_SPECIFIER = doingboon.app;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;

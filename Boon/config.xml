@@ -21,10 +21,10 @@
     </feature>
     <name>Boon</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        Practising Good
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="julsuniverse@gmail.com">
+        Boon, Inc.
     </author>
     <content src="https://app.doingboon.com/" />
     <access origin="*" />
@@ -33,6 +33,7 @@
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
     <allow-navigation hap-rule="yes" href="https://app.doingboon.com/*" />
+    <allow-navigation href="https://js.stripe.com/*" />
     <allow-intent href="itms:*" />
     <allow-intent href="itms-apps:*" />
     <preference name="AllowInlineMediaPlayback" value="false" />
